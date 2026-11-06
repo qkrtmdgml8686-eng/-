@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix 마인드리셋 (MindReset)",
+  "description": "단일 HTML 파일로 구동되는 자존감·연애 심리 케어 서비스 - 1분 원클릭 감정 체크인, SOS 말투 번역기, 감정 캘린더, 30일 챌린지, 연애 패턴 50문항 진단",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

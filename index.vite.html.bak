@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>마인드리셋 (MindReset) - 오늘의 케어, 감정 캘린더, SOS 처방전, 마인드 디톡스, 패턴 정밀진단</title>
+    <meta name="description" content="단일 HTML(mindreset.html)로 구동되는 자존감·연애 심리 케어 서비스 - 오늘의 케어, 감정 캘린더, SOS 처방전, 마인드 디톡스, 패턴 정밀진단" />
+    <meta property="og:title" content="마인드리셋 (MindReset) - 오늘의 케어, 감정 캘린더, SOS 처방전, 마인드 디톡스, 패턴 정밀진단" />
+    <meta property="og:description" content="단일 HTML(mindreset.html)로 구동되는 자존감·연애 심리 케어 서비스 - 오늘의 케어, 감정 캘린더, SOS 처방전, 마인드 디톡스, 패턴 정밀진단" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
